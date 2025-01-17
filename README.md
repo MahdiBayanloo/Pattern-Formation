@@ -1,6 +1,6 @@
-Course: Computational Sciences 23/24
-Institute: Freie Universit¨at Berlin
-Lecturer: Sebastian Matera, Feliks N¨uske
+*Course: Computational Sciences 23/24*
+* | Institute: Freie Universit¨at Berlin*
+* | Lecturer: Sebastian Matera, Feliks N¨uske*
 
 ***PATTERN FORMATION***
 
