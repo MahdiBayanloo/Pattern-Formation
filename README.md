@@ -2,7 +2,7 @@ Course: Computational Sciences 23/24
 Institute: Freie Universit¨at Berlin
 Lecturer: Sebastian Matera, Feliks N¨uske
 
-**PATTERN FORMATION**
+***PATTERN FORMATION***
 
 1. Introduction
 Alan Turing’s ground breaking work of 1952 [1] provides an explaination for
