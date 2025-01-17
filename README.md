@@ -2,6 +2,8 @@
 * | Institute: Freie Universit¨at Berlin*
 * | Lecturer: Sebastian Matera, Feliks N¨uske*
 
+**Depeloper: Mahdi Baynloo**
+
 ***PATTERN FORMATION***
 
 1. Introduction
