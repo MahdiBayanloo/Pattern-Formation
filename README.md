@@ -1,4 +1,4 @@
-*Course: Computational Sciences 23/24*
+* |Course: Computational Sciences 23/24*
 * | Institute: Freie Universit¨at Berlin*
 * | Lecturer: Sebastian Matera, Feliks N¨uske*
 
